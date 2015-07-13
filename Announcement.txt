@@ -71,20 +71,23 @@ date on BarCampGR news and updates via the following social media
 outlets:
 
     * Website: http://barcampgr.org
-    * Campers Email List:
-http://lists.barcampgr.org/listinfo.cgi/campers-barcampgr.org
     * Twitter: @barcampgr
+    * Slack: http://barcampgr.slack.org ( Replaces IRC )
     * Subreddit: http://www.reddit.com/r/BarCampGR/
     * Facebook: https://www.facebook.com/pages/BarCampGR/112347402141619
     * Google+: https://plus.google.com/b/116952079842867940611/
-    * IRC: #barcampgr on Freenode
-    * LinkedIn: http://www.linkedin.com/company/479534?trk=tyah
 
 Also, if you'd like to help us organize BarCampGR, then sign up for
 the BarCampGR Organizers' Email Group and jump right into the
 conversation at
-http://lists.barcampgr.org/listinfo.cgi/organizers-barcampgr.org
+http://lists.barcampgr.org/listinfo.cgi/organizers-barcampgr.org, or join the Slack team noted above.
 
+We have specific need this year for help with T-shirt designs; if you would care to submit a t-shirt design that we can use for this year's shurts, please contact us on Slack or on the mailing list.
+
+CODE OF CONDUCT
+
+You can read our code of conduct here:
+    * http://barcampgr.org/code-of-conduct/
 REGISTRATION
     http://barcampgr.org/register/
 
@@ -102,7 +105,6 @@ Friday, August 21, 2014
 
 Overnight
     10:00 PM-whenever the next morning - Camping, all-night hacking, etc.
-    Midnight BBQ
     There will be plenty of room to crash on Friday night, so bring a
 sleeping bag. Better yet, bring a tent for the geek base camp. You can
 also reserve clean, close accommodations at Calvin College’s Prince
